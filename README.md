@@ -1,9 +1,7 @@
-<h1 align="center">Frenkie</h1>
+<h1 align="left">FRENKIE</h1>
 
----
-
-## Technology.
+## Technology
 
 - My creativity.
 - Turning ideas into something real.
-- I like to create, test, break, and rebuild.
+- Making my mark.
